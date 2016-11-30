@@ -17,6 +17,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnClk=(Button)findViewById(R.id.btnClk);
 
 
+
+
+
+
+
+        
         btnClk.setOnClickListener(this);
 
 
